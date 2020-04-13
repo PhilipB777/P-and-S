@@ -1,5 +1,6 @@
 # Philip Brady
-# This program takes in the height and weight from people,
+# This is the Weekly Task 2.
+# The program takes in the height and weight from people,
 # calculates their BMI and outputs the result.
 
 # The weight is taken in and converted to the int type.
