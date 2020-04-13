@@ -12,3 +12,6 @@ I wrote a program called ‘bmi.py’ which calculates somebody’s Body Mass In
 
 Task 3:
 I wrote a program called ‘secondstring.py’ which returns every second letter of a sentence in reverse order.  When the program is run, the user is asked to enter a sentence.  Every second letter in reverse order is returned to the user.
+
+Task 4:
+I wrote a program called ‘collatz.py’ which returns successive values following calculations.  When the program is run, the user is asked to enter a positive integer.  If the value is even, it’s divided by two and if it’s odd, it’s multiplied by three and added by one.  This process continues until the current value is one.  The successive values are returned to the user.
