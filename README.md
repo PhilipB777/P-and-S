@@ -17,4 +17,7 @@ Task 4:
 I wrote a program called ‘collatz.py’ which returns successive values following calculations.  When the program is run, the user is asked to enter a positive integer.  If the value is even, it’s divided by two and if it’s odd, it’s multiplied by three and added by one.  This process continues until the current value is one.  The successive values are returned to the user.
 
 Task 5:
-I wrote a program called ‘weekday.py’ which outputs whether or not the present day is a week day or a weekend day.
+I wrote a program called ‘weekday.py’ which outputs whether the present day is a weekday or a weekend day.  When the program is run, the user sees whether today is a weekday or a weekend day.
+
+Task 6:
+I wrote a program called ‘squareroot.py’ which returns an approximation of a number’s square root.   When the program is run, the user is asked to enter a positive number.  The approximation of its square root is returned to the user.
