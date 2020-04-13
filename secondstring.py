@@ -1,11 +1,12 @@
 # Philip Brady
-# This is the Weekly Task 3
+# This is the Weekly Task 3.
+# The program takes in a sentence from
+# the user and outputs every second
+# letter in reverse order.
 
-s = input("Enter Sentence: ")
-slen = len(s)
+sen = input("Please enter a sentence: ")
 
-# used mod to get first character printed
-if slen % 2 == 0:
-    print (s[slen:0:-2])
-else:
-    print (s[slen:0:-2] + s[0])
+# Used the string slicing required within
+# the print function.
+print("Every 2nd letter in reverse is {}"
+.format(sen[::-2]))
