@@ -10,3 +10,7 @@ sen = input("Please enter a sentence: ")
 # the print function.
 print("Every 2nd letter in reverse is {}"
 .format(sen[::-2]))
+
+# Reference:
+# “A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly).
+# Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.”
