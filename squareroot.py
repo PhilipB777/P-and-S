@@ -1,5 +1,6 @@
 # Philip Brady
-# This program takes a positive floating-point
+# This is the Weekly Task 6.
+# The program takes a positive floating-point
 # number as input and outputs an approximation
 # of its square root.  The function called sqrt
 # does this.
@@ -23,6 +24,7 @@ input("Please enter a positive number: "))
 print("The square root of {} is approx. {}."
 .format(number, sqrt(number)))
 
-# Reference:
-# “A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly).
+# References:
+# [1]  “A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly).
 # Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.”
+# [2]  https://docs.python.org/3/library/math.html
