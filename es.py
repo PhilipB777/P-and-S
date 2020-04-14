@@ -1,5 +1,6 @@
 # Philip Brady
-# This program takes in the name of a file and returns
+# This is the Weekly Task 7.
+# The program takes in the name of a file and returns
 # the total number of e's contained within the file text.
 
 filename = input("Enter the file name: ")
