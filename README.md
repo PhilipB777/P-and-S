@@ -2,7 +2,7 @@
 
 This repository contains the weekly tasks (Problems 2020) for the Programming and Scripting module.  The Programming and Scripting module is part of the Higher Diploma in Data Analytics which is thought from Galway-Mayo Institute of Technology.
 
-I was given eight weekly tasks to complete and successfully completed each one as follows-
+I was given eight weekly tasks to complete and successfully completed each one as follows:
 
 Task 1:
 I introduced myself in the discussion forum and installed the required software on my machine.  I also went to the GitHub website and set up an account for myself.
@@ -24,3 +24,6 @@ I wrote a program called ‘squareroot.py’ which returns an approximation of a
 
 Task 7:
 I wrote a program called ‘es.py’ which outputs the number of e’s contained in a text file.  When the program is run, the user is asked to enter a file name.  The total number of e’s within the file text is returned to the user.
+
+Task 8:
+I wrote a program called ‘plot.py’ which displays a plot of the functions f(x)=x, g(x)=x² and h(x)=x³ in the range 0 - 4.  When the program is run, a scatterplot is displayed to the user.
