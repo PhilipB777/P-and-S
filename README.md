@@ -27,3 +27,17 @@ I wrote a program called ‘es.py’ which outputs the number of e’s contained
 
 Task 8:
 I wrote a program called ‘plot.py’ which displays a plot of the functions f(x)=x, g(x)=x² and h(x)=x³ in the range 0 - 4.  When the program is run, a scatterplot is displayed to the user.
+
+References:
+
+[1] “A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly).
+Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.”
+
+[2] The Python Standard Library.
+    https://docs.python.org/3/library/
+
+[3] Real Python Tutorials.
+    https://realpython.com/
+	
+[4] Technology Education Blog.
+    https://www.sanfoundry.com/
