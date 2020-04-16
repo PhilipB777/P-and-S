@@ -1,6 +1,6 @@
 # P-and-S
 
-This repository contains the weekly tasks (Problems 2020) for the Programming and Scripting module.  The Programming and Scripting module is part of the Higher Diploma in Data Analytics which is thought from Galway-Mayo Institute of Technology.
+This repository contains the weekly tasks (Problems 2020) for the Programming and Scripting module.  The Programming and Scripting module is part of the Higher Diploma in Data Analytics which is taught from Galway-Mayo Institute of Technology.
 
 I was given eight weekly tasks to complete and successfully completed each one as follows:
 
